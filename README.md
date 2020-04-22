@@ -31,7 +31,7 @@ Det som måste vara med är
  * HTML
  * CSS, scss/sass
  * Ramverk, bootstrap, axios eller Phaser
- * PHP
+ * PHP, eller annan serverteknologi (nodejs)
  * Databas, mysql
 
 Du ska alltså knyta ihop säcken kring allt det vi gjort i år. Så ett tips är att slå ihop det vi arbetat med.
